@@ -114,3 +114,9 @@ First things first, you really need to understand how things work before start t
     - Active Directory: Lab build and attack vectors.
     - Web application: Enumeration and exploitation using some OWASP Top 10 vulnerabilities and Bug Bounty techniques.
     - Wireless hacking (WPA)
+
+    hello mutherfucker
+
+    dfvvdvnkjnckjnjnc
+
+    
